@@ -1,0 +1,1145 @@
+{
+    "蛆音娘": {
+        "type": "image",
+        "container": [
+            {
+                "icon": "/assets/owo/biaoqing/quyin/E89B86E99FB3E5A898_E581B7E79C8B.png",
+                "data": ":!(蛆音娘_偷看)",
+                "text": "蛆音娘_偷看",
+                "css": "quyin"
+            },
+            {
+                "icon": "/assets/owo/biaoqing/quyin/E89B86E99FB3E5A898_E6918AE6898B.png",
+                "css": "quyin",
+                "data": ":!(蛆音娘_摊手)",
+                "text": "蛆音娘_摊手"
+            },
+            {
+                "icon": "/assets/owo/biaoqing/quyin/E89B86E99FB3E5A898_E697A0E8AFAD.png",
+                "css": "quyin",
+                "data": ":!(蛆音娘_无语)",
+                "text": "蛆音娘_无语"
+            },
+            {
+                "icon": "/assets/owo/biaoqing/quyin/E89B86E99FB3E5A898_E5AEB3E68095.png",
+                "css": "quyin",
+                "data": ":!(蛆音娘_害怕)",
+                "text": "蛆音娘_害怕"
+            },
+            {
+                "icon": "/assets/owo/biaoqing/quyin/E89B86E99FB3E5A898_E58EBBE4B896.png",
+                "css": "quyin",
+                "data": ":!(蛆音娘_去世)",
+                "text": "蛆音娘_去世"
+            },
+            {
+                "icon": "/assets/owo/biaoqing/quyin/E89B86E99FB3E5A898_E79DA1E8A789.png",
+                "css": "quyin",
+                "data": ":!(蛆音娘_睡觉)",
+                "text": "蛆音娘_睡觉"
+            },
+            {
+                "icon": "/assets/owo/biaoqing/quyin/E89B86E99FB3E5A898_E593ADE6B3A3.png",
+                "css": "quyin",
+                "data": ":!(蛆音娘_哭泣)",
+                "text": "蛆音娘_哭泣"
+            },
+            {
+                "icon": "/assets/owo/biaoqing/quyin/E89B86E99FB3E5A898_E6BB91E7A8BD.png",
+                "css": "quyin",
+                "data": ":!(蛆音娘_滑稽)",
+                "text": "蛆音娘_滑稽"
+            },
+            {
+                "icon": "/assets/owo/biaoqing/quyin/E89B86E99FB3E5A898_E882A5E79A82.png",
+                "css": "quyin",
+                "data": ":!(蛆音娘_肥皂)",
+                "text": "蛆音娘_肥皂"
+            },
+            {
+                "icon": "/assets/owo/biaoqing/quyin/E89B86E99FB3E5A898_E7949FE6B094.png",
+                "css": "quyin",
+                "data": ":!(蛆音娘_生气)",
+                "text": "蛆音娘_生气"
+            },
+            {
+                "icon": "/assets/owo/biaoqing/quyin/E89B86E99FB3E5A898_E4B88DE684A7E698AFE68891.png",
+                "css": "quyin",
+                "data": ":!(蛆音娘_不愧是我)",
+                "text": "蛆音娘_不愧是我"
+            },
+            {
+                "icon": "/assets/owo/biaoqing/quyin/E89B86E99FB3E5A898_E59083E6838A.png",
+                "css": "quyin",
+                "data": ":!(蛆音娘_吃惊)",
+                "text": "蛆音娘_吃惊"
+            },
+            {
+                "icon": "/assets/owo/biaoqing/quyin/E89B86E99FB3E5A898_E689B6E9A29D.png",
+                "css": "quyin",
+                "data": ":!(蛆音娘_扶额)",
+                "text": "蛆音娘_扶额"
+            },
+            {
+                "icon": "/assets/owo/biaoqing/quyin/E89B86E99FB3E5A898_E5A4A7E7AC91.png",
+                "css": "quyin",
+                "data": ":!(蛆音娘_大笑)",
+                "text": "蛆音娘_大笑"
+            },
+            {
+                "icon": "/assets/owo/biaoqing/quyin/E89B86E99FB3E5A898_E58D96E8908C.png",
+                "css": "quyin",
+                "data": ":!(蛆音娘_卖萌)",
+                "text": "蛆音娘_卖萌"
+            },
+            {
+                "icon": "/assets/owo/biaoqing/quyin/E89B86E99FB3E5A898_E59083E7939C.png",
+                "css": "quyin",
+                "data": ":!(蛆音娘_吃瓜)",
+                "text": "蛆音娘_吃瓜"
+            },
+            {
+                "icon": "/assets/owo/biaoqing/quyin/E89B86E99FB3E5A898_E59090E8A180.png",
+                "css": "quyin",
+                "data": ":!(蛆音娘_吐血)",
+                "text": "蛆音娘_吐血"
+            },
+            {
+                "icon": "/assets/owo/biaoqing/quyin/E89B86E99FB3E5A898_OK.png",
+                "css": "quyin",
+                "data": ":!(蛆音娘_OK)",
+                "text": "蛆音娘_OK"
+            },
+            {
+                "icon": "/assets/owo/biaoqing/quyin/E89B86E99FB3E5A898_E593BC.png",
+                "css": "quyin",
+                "data": ":!(蛆音娘_哼)",
+                "text": "蛆音娘_哼"
+            },
+            {
+                "icon": "/assets/owo/biaoqing/quyin/E89B86E99FB3E5A898_E79691E997AE.png",
+                "css": "quyin",
+                "data": ":!(蛆音娘_疑问)",
+                "text": "蛆音娘_疑问"
+            }
+        ]
+    },
+    "阿鲁": {
+        "type": "image",
+        "container": [
+            {
+                "icon": "/assets/owo/biaoqing/aru/E9AB98E585B4_2x.png",
+                "css": "alu",
+                "data": ":@(高兴)",
+                "text": "高兴"
+            },
+            {
+                "icon": "/assets/owo/biaoqing/aru/E5B08FE68092_2x.png",
+                "css": "alu",
+                "data": ":@(小怒)",
+                "text": "小怒"
+            },
+            {
+                "icon": "/assets/owo/biaoqing/aru/E884B8E7BAA2_2x.png",
+                "css": "alu",
+                "data": ":@(脸红)",
+                "text": "脸红"
+            },
+            {
+                "icon": "/assets/owo/biaoqing/aru/E58685E4BCA4_2x.png",
+                "css": "alu",
+                "data": ":@(内伤)",
+                "text": "内伤"
+            },
+            {
+                "icon": "/assets/owo/biaoqing/aru/E8A385E5A4A7E6ACBE_2x.png",
+                "css": "alu",
+                "data": ":@(装大款)",
+                "text": "装大款"
+            },
+            {
+                "icon": "/assets/owo/biaoqing/aru/E8B59EE4B880E4B8AA_2x.png",
+                "css": "alu",
+                "data": ":@(赞一个)",
+                "text": "赞一个"
+            },
+            {
+                "icon": "/assets/owo/biaoqing/aru/E5AEB3E7BE9E_2x.png",
+                "css": "alu",
+                "data": ":@(害羞)",
+                "text": "害羞"
+            },
+            {
+                "icon": "/assets/owo/biaoqing/aru/E6B197_2x.png",
+                "css": "alu",
+                "data": ":@(汗)",
+                "text": "汗"
+            },
+            {
+                "icon": "/assets/owo/biaoqing/aru/E59090E8A180E58092E59CB0_2x.png",
+                "css": "alu",
+                "data": ":@(吐血倒地)",
+                "text": "吐血倒地"
+            },
+            {
+                "icon": "/assets/owo/biaoqing/aru/E6B7B1E6809D_2x.png",
+                "css": "alu",
+                "data": ":@(深思)",
+                "text": "深思"
+            },
+            {
+                "icon": "/assets/owo/biaoqing/aru/E4B88DE9AB98E585B4_2x.png",
+                "css": "alu",
+                "data": ":@(不高兴)",
+                "text": "不高兴"
+            },
+            {
+                "icon": "/assets/owo/biaoqing/aru/E697A0E8AFAD_2x.png",
+                "css": "alu",
+                "data": ":@(无语)",
+                "text": "无语"
+            },
+            {
+                "icon": "/assets/owo/biaoqing/aru/E4BAB2E4BAB2_2x.png",
+                "css": "alu",
+                "data": ":@(亲亲)",
+                "text": "亲亲"
+            },
+            {
+                "icon": "/assets/owo/biaoqing/aru/E58FA3E6B0B4_2x.png",
+                "css": "alu",
+                "data": ":@(口水)",
+                "text": "口水"
+            },
+            {
+                "icon": "/assets/owo/biaoqing/aru/E5B0B4E5B0AC_2x.png",
+                "data": ":@(尴尬)",
+                "css": "alu",
+                "text": "尴尬"
+            },
+            {
+                "icon": "/assets/owo/biaoqing/aru/E4B8ADE68C87_2x.png",
+                "data": ":@(中指)",
+                "css": "alu",
+                "text": "中指"
+            },
+            {
+                "icon": "/assets/owo/biaoqing/aru/E683B3E4B880E683B3_2x.png",
+                "data": ":@(想一想)",
+                "css": "alu",
+                "text": "想一想"
+            },
+            {
+                "icon": "/assets/owo/biaoqing/aru/E593ADE6B3A3_2x.png",
+                "data": ":@(哭泣)",
+                "css": "alu",
+                "text": "哭泣"
+            },
+            {
+                "icon": "/assets/owo/biaoqing/aru/E4BEBFE4BEBF_2x.png",
+                "data": ":@(便便)",
+                "css": "alu",
+                "text": "便便"
+            },
+            {
+                "icon": "/assets/owo/biaoqing/aru/E78CAEE88AB1_2x.png",
+                "data": ":@(献花)",
+                "css": "alu",
+                "text": "献花"
+            },
+            {
+                "icon": "/assets/owo/biaoqing/aru/E79AB1E79C89_2x.png",
+                "data": ":@(皱眉)",
+                "css": "alu",
+                "text": "皱眉"
+            },
+            {
+                "icon": "/assets/owo/biaoqing/aru/E582BBE7AC91_2x.png",
+                "data": ":@(傻笑)",
+                "css": "alu",
+                "text": "傻笑"
+            },
+            {
+                "icon": "/assets/owo/biaoqing/aru/E78B82E6B197_2x.png",
+                "data": ":@(狂汗)",
+                "css": "alu",
+                "text": "狂汗"
+            },
+            {
+                "icon": "/assets/owo/biaoqing/aru/E59090_2x.png",
+                "data": ":@(吐)",
+                "css": "alu",
+                "text": "吐"
+            },
+            {
+                "icon":  "/assets/owo/biaoqing/aru/E596B7E6B0B4_2x.png",
+                "data": ":@(喷水)",
+                "css": "alu",
+                "text": "喷水"
+            },
+            {
+                "icon":  "/assets/owo/biaoqing/aru/E79C8BE4B88DE8A781_2x.png",
+                "data": ":@(看不见)",
+                "css": "alu",
+                "text": "看不见"
+            },
+            {
+                "icon":  "/assets/owo/biaoqing/aru/E9BC93E68E8C_2x.png ",
+                "data": ":@(鼓掌)",
+                "css": "alu",
+                "text": "鼓掌"
+            },
+            {
+                "icon":  "/assets/owo/biaoqing/aru/E998B4E69A97_2x.png ",
+                "data": ":@(阴暗)",
+                "css": "alu",
+                "text": "阴暗"
+            },
+            {
+                "icon":  "/assets/owo/biaoqing/aru/E995BFE88D89_2x.png ",
+                "data": ":@(长草)",
+                "css": "alu",
+                "text": "长草"
+            },
+            {
+                "icon":  "/assets/owo/biaoqing/aru/E78CAEE9BB84E7939C_2x.png ",
+                "data": ":@(献黄瓜)",
+                "css": "alu",
+                "text": "献黄瓜"
+            },
+            {
+                "icon":  "/assets/owo/biaoqing/aru/E982AAE681B6_2x.png ",
+                "data": ":@(邪恶)",
+                "css": "alu",
+                "text": "邪恶"
+            },
+            {
+                "icon":  "/assets/owo/biaoqing/aru/E69C9FE5BE85_2x.png ",
+                "data": ":@(期待)",
+                "css": "alu",
+                "text": "期待"
+            },
+            {
+                "icon":  "/assets/owo/biaoqing/aru/E5BE97E6848F_2x.png ",
+                "data": ":@(得意)",
+                "css": "alu",
+                "text": "得意"
+            },
+            {
+                "icon":  "/assets/owo/biaoqing/aru/E59090E8888C_2x.png ",
+                "data": ":@(吐舌)",
+                "css": "alu",
+                "text": "吐舌"
+            },
+            {
+                "icon":  "/assets/owo/biaoqing/aru/E596B7E8A180_2x.png ",
+                "data": ":@(喷血)",
+                "css": "alu",
+                "text": "喷血"
+            },
+            {
+                "icon":  "/assets/owo/biaoqing/aru/E697A0E68980E8B093_2x.png ",
+                "data": ":@(无所谓)",
+                "css": "alu",
+                "text": "无所谓"
+            },
+            {
+                "icon":  "/assets/owo/biaoqing/aru/E8A782E5AF9F_2x.png ",
+                "data": ":@(观察)",
+                "css": "alu",
+                "text": "观察"
+            },
+            {
+                "icon":  "/assets/owo/biaoqing/aru/E69A97E59CB0E8A782E5AF9F_2x.png ",
+                "data": ":@(暗地观察)",
+                "css": "alu",
+                "text": "暗地观察"
+            },
+            {
+                "icon":  "/assets/owo/biaoqing/aru/E882BFE58C85_2x.png ",
+                "data": ":@(肿包)",
+                "css": "alu",
+                "text": "肿包"
+            },
+            {
+                "icon":  "/assets/owo/biaoqing/aru/E4B8ADE69EAA_2x.png ",
+                "data": ":@(中枪)",
+                "css": "alu",
+                "text": "中枪"
+            },
+            {
+                "icon":  "/assets/owo/biaoqing/aru/E5A4A7E59BA7_2x.png ",
+                "data": ":@(大囧)",
+                "css": "alu",
+                "text": "大囧"
+            },
+            {
+                "icon":  "/assets/owo/biaoqing/aru/E591B2E78999_2x.png ",
+                "data": ":@(呲牙)",
+                "css": "alu",
+                "text": "呲牙"
+            },
+            {
+                "icon":  "/assets/owo/biaoqing/aru/E68AA0E9BCBB_2x.png ",
+                "data": ":@(抠鼻)",
+                "css": "alu",
+                "text": "抠鼻"
+            },
+            {
+                "icon":  "/assets/owo/biaoqing/aru/E4B88DE8AFB4E8AF9D_2x.png ",
+                "data": ":@(不说话)",
+                "css": "alu",
+                "text": "不说话"
+            },
+            {
+                "icon":  "/assets/owo/biaoqing/aru/E592BDE6B094_2x.png ",
+                "data": ":@(咽气)",
+                "css": "alu",
+                "text": "咽气"
+            },
+            {
+                "icon":  "/assets/owo/biaoqing/aru/E6ACA2E591BC_2x.png ",
+                "data": ":@(欢呼)",
+                "css": "alu",
+                "text": "欢呼"
+            },
+            {
+                "icon":  "/assets/owo/biaoqing/aru/E99481E79C89_2x.png ",
+                "data": ":@(锁眉)",
+                "css": "alu",
+                "text": "锁眉"
+            },
+            {
+                "icon":  "/assets/owo/biaoqing/aru/E89CA1E7839B_2x.png ",
+                "data": ":@(蜡烛)",
+                "css": "alu",
+                "text": "蜡烛"
+            },
+            {
+                "icon":  "/assets/owo/biaoqing/aru/E59D90E7AD89_2x.png ",
+                "data": ":@(坐等)",
+                "css": "alu",
+                "text": "坐等"
+            },
+            {
+                "icon":  "/assets/owo/biaoqing/aru/E587BBE68E8C_2x.png ",
+                "data": ":@(击掌)",
+                "css": "alu",
+                "text": "击掌"
+            },
+            {
+                "icon":  "/assets/owo/biaoqing/aru/E6838AE5969C_2x.png ",
+                "data": ":@(惊喜)",
+                "css": "alu",
+                "text": "惊喜"
+            },
+            {
+                "icon":  "/assets/owo/biaoqing/aru/E5969CE69E81E8808CE6B3A3_2x.png ",
+                "data": ":@(喜极而泣)",
+                "css": "alu",
+                "text": "喜极而泣"
+            },
+            {
+                "icon":  "/assets/owo/biaoqing/aru/E68ABDE7839F_2x.png ",
+                "data": ":@(抽烟)",
+                "css": "alu",
+                "text": "抽烟"
+            },
+            {
+                "icon":  "/assets/owo/biaoqing/aru/E4B88DE587BAE68980E69699_2x.png ",
+                "data": ":@(不出所料)",
+                "css": "alu",
+                "text": "不出所料"
+            },
+            {
+                "icon":  "/assets/owo/biaoqing/aru/E684A4E68092_2x.png ",
+                "data": ":@(愤怒)",
+                "css": "alu",
+                "text": "愤怒"
+            },
+            {
+                "icon":  "/assets/owo/biaoqing/aru/E697A0E5A588_2x.png ",
+                "data": ":@(无奈)",
+                "css": "alu",
+                "text": "无奈"
+            },
+            {
+                "icon":  "/assets/owo/biaoqing/aru/E9BB91E7BABF_2x.png ",
+                "data": ":@(黑线)",
+                "css": "alu",
+                "text": "黑线"
+            },
+            {
+                "icon":  "/assets/owo/biaoqing/aru/E68A95E9998D_2x.png ",
+                "data": ":@(投降)",
+                "css": "alu",
+                "text": "投降"
+            },
+            {
+                "icon":  "/assets/owo/biaoqing/aru/E79C8BE783ADE997B9_2x.png ",
+                "data": ":@(看热闹)",
+                "css": "alu",
+                "text": "看热闹"
+            },
+            {
+                "icon":  "/assets/owo/biaoqing/aru/E68987E880B3E58589_2x.png ",
+                "data": ":@(扇耳光)",
+                "css": "alu",
+                "text": "扇耳光"
+            },
+            {
+                "icon":  "/assets/owo/biaoqing/aru/E5B08FE79CBCE79D9B_2x.png ",
+                "data": ":@(小眼睛)",
+                "css": "alu",
+                "text": "小眼睛"
+            },
+            {
+                "icon":  "/assets/owo/biaoqing/aru/E4B8ADE58880_2x.png ",
+                "data": ":@(中刀)",
+                "css": "alu",
+                "text": "中刀"
+            }
+        ]
+    },
+    "泡泡": {
+        "type": "image",
+        "container": [
+            {
+                "icon": "/assets/owo/biaoqing/paopao/E591B5E591B5_2x.png ",
+                "data": "::(呵呵)",
+                "css": "paopao",
+                "text": "呵呵"
+            },
+            {
+                "icon":  "/assets/owo/biaoqing/paopao/E59388E59388_2x.png ",
+                "data": "::(哈哈)",
+                "css": "paopao",
+                "text": "哈哈"
+            },
+            {
+                "icon":  "/assets/owo/biaoqing/paopao/E59090E8888C_2x.png ",
+                "data": "::(吐舌)",
+                "css": "paopao",
+                "text": "吐舌"
+            },
+            {
+                "icon":  "/assets/owo/biaoqing/paopao/E5A4AAE5BC80E5BF83_2x.png ",
+                "data": "::(太开心)",
+                "css": "paopao",
+                "text": "太开心"
+            },
+            {
+                "icon":  "/assets/owo/biaoqing/paopao/E7AC91E79CBC_2x.png ",
+                "data": "::(笑眼)",
+                "css": "paopao",
+                "text": "笑眼"
+            },
+            {
+                "icon":  "/assets/owo/biaoqing/paopao/E88AB1E5BF83_2x.png ",
+                "data": "::(花心)",
+                "css": "paopao",
+                "text": "花心"
+            },
+            {
+                "icon":  "/assets/owo/biaoqing/paopao/E5B08FE4B996_2x.png ",
+                "data": "::(小乖)",
+                "css": "paopao",
+                "text": "小乖"
+            },
+            {
+                "icon":  "/assets/owo/biaoqing/paopao/E4B996_2x.png ",
+                "data": "::(乖)",
+                "css": "paopao",
+                "text": "乖"
+            },
+            {
+                "icon":  "/assets/owo/biaoqing/paopao/E68D82E598B4E7AC91_2x.png ",
+                "data": "::(捂嘴笑)",
+                "css": "paopao",
+                "text": "捂嘴笑"
+            },
+            {
+                "icon":  "/assets/owo/biaoqing/paopao/E6BB91E7A8BD_2x.png ",
+                "data": "::(滑稽)",
+                "css": "paopao",
+                "text": "滑稽"
+            },
+            {
+                "icon":  "/assets/owo/biaoqing/paopao/E4BDA0E68782E79A84_2x.png ",
+                "data": "::(你懂的)",
+                "css": "paopao",
+                "text": "你懂的"
+            },
+            {
+                "icon":  "/assets/owo/biaoqing/paopao/E4B88DE9AB98E585B4_2x.png ",
+                "data": "::(不高兴)",
+                "css": "paopao",
+                "text": "不高兴"
+            },
+            {
+                "icon":  "/assets/owo/biaoqing/paopao/E68092_2x.png ",
+                "data": "::(怒)",
+                "css": "paopao",
+                "text": "怒"
+            },
+            {
+                "icon":  "/assets/owo/biaoqing/paopao/E6B197_2x.png ",
+                "data": "::(汗)",
+                "css": "paopao",
+                "text": "汗"
+            },
+            {
+                "icon":  "/assets/owo/biaoqing/paopao/E9BB91E7BABF_2x.png ",
+                "data": "::(黑线)",
+                "css": "paopao",
+                "text": "黑线"
+            },
+            {
+                "icon":  "/assets/owo/biaoqing/paopao/E6B3AA_2x.png ",
+                "data": "::(泪)",
+                "css": "paopao",
+                "text": "泪"
+            },
+            {
+                "icon":  "/assets/owo/biaoqing/paopao/E79C9FE6A392_2x.png ",
+                "data": "::(真棒)",
+                "css": "paopao",
+                "text": "真棒"
+            },
+            {
+                "icon":  "/assets/owo/biaoqing/paopao/E596B7_2x.png ",
+                "data": "::(喷)",
+                "css": "paopao",
+                "text": "喷"
+            },
+            {
+                "icon":  "/assets/owo/biaoqing/paopao/E6838AE593AD_2x.png ",
+                "data": "::(惊哭)",
+                "css": "paopao",
+                "text": "惊哭"
+            },
+            {
+                "icon":  "/assets/owo/biaoqing/paopao/E998B4E999A9_2x.png ",
+                "data": "::(阴险)",
+                "css": "paopao",
+                "text": "阴险"
+            },
+            {
+                "icon":  "/assets/owo/biaoqing/paopao/E98499E8A786_2x.png ",
+                "data": "::(鄙视)",
+                "css": "paopao",
+                "text": "鄙视"
+            },
+            {
+                "icon":  "/assets/owo/biaoqing/paopao/E985B7_2x.png ",
+                "data": "::(酷)",
+                "css": "paopao",
+                "text": "酷"
+            },
+            {
+                "icon":  "/assets/owo/biaoqing/paopao/E5958A_2x.png ",
+                "data": "::(啊)",
+                "css": "paopao",
+                "text": "啊"
+            },
+            {
+                "icon":  "/assets/owo/biaoqing/paopao/E78B82E6B197_2x.png ",
+                "data": "::(狂汗)",
+                "css": "paopao",
+                "text": "狂汗"
+            },
+            {
+                "icon":  "/assets/owo/biaoqing/paopao/what_2x.png ",
+                "data": "::(what)",
+                "css": "paopao",
+                "text": "what"
+            },
+            {
+                "icon":  "/assets/owo/biaoqing/paopao/E79691E997AE_2x.png ",
+                "data": "::(疑问)",
+                "css": "paopao",
+                "text": "疑问"
+            },
+            {
+                "icon":  "/assets/owo/biaoqing/paopao/E985B8E788BD_2x.png ",
+                "data": "::(酸爽)",
+                "css": "paopao",
+                "text": "酸爽"
+            },
+            {
+                "icon":  "/assets/owo/biaoqing/paopao/E59180E592A9E788B9_2x.png ",
+                "data": "::(呀咩爹)",
+                "css": "paopao",
+                "text": "呀咩爹"
+            },
+            {
+                "icon":  "/assets/owo/biaoqing/paopao/E5A794E5B188_2x.png ",
+                "data": "::(委屈)",
+                "css": "paopao",
+                "text": "委屈"
+            },
+            {
+                "icon":  "/assets/owo/biaoqing/paopao/E6838AE8AEB6_2x.png ",
+                "data": "::(惊讶)",
+                "css": "paopao",
+                "text": "惊讶"
+            },
+            {
+                "icon":  "/assets/owo/biaoqing/paopao/E79DA1E8A789_2x.png ",
+                "data": "::(睡觉)",
+                "css": "paopao",
+                "text": "睡觉"
+            },
+            {
+                "icon":  "/assets/owo/biaoqing/paopao/E7AC91E5B0BF_2x.png ",
+                "data": "::(笑尿)",
+                "css": "paopao",
+                "text": "笑尿"
+            },
+            {
+                "icon":  "/assets/owo/biaoqing/paopao/E68C96E9BCBB_2x.png ",
+                "data": "::(挖鼻)",
+                "css": "paopao",
+                "text": "挖鼻"
+            },
+            {
+                "icon":  "/assets/owo/biaoqing/paopao/E59090_2x.png ",
+                "data": "::(吐)",
+                "css": "paopao",
+                "text": "吐"
+            },
+            {
+                "icon":  "/assets/owo/biaoqing/paopao/E78A80E588A9_2x.png ",
+                "data": "::(犀利)",
+                "css": "paopao",
+                "text": "犀利"
+            },
+            {
+                "icon":  "/assets/owo/biaoqing/paopao/E5B08FE7BAA2E884B8_2x.png ",
+                "data": "::(小红脸)",
+                "css": "paopao",
+                "text": "小红脸"
+            },
+            {
+                "icon":  "/assets/owo/biaoqing/paopao/E68792E5BE97E79086_2x.png ",
+                "data": "::(懒得理)",
+                "css": "paopao",
+                "text": "懒得理"
+            },
+            {
+                "icon":  "/assets/owo/biaoqing/paopao/E58B89E5BCBA_2x.png ",
+                "data": "::(勉强)",
+                "css": "paopao",
+                "text": "勉强"
+            },
+            {
+                "icon":  "/assets/owo/biaoqing/paopao/E788B1E5BF83_2x.png ",
+                "data": "::(爱心)",
+                "css": "paopao",
+                "text": "爱心"
+            },
+            {
+                "icon":  "/assets/owo/biaoqing/paopao/E5BF83E7A28E_2x.png ",
+                "data": "::(心碎)",
+                "css": "paopao",
+                "text": "心碎"
+            },
+            {
+                "icon":  "/assets/owo/biaoqing/paopao/E78EABE791B0_2x.png ",
+                "data": "::(玫瑰)",
+                "css": "paopao",
+                "text": "玫瑰"
+            },
+            {
+                "icon":  "/assets/owo/biaoqing/paopao/E7A4BCE789A9_2x.png ",
+                "data": "::(礼物)",
+                "css": "paopao",
+                "text": "礼物"
+            },
+            {
+                "icon":  "/assets/owo/biaoqing/paopao/E5BDA9E899B9_2x.png ",
+                "data": "::(彩虹)",
+                "css": "paopao",
+                "text": "彩虹"
+            },
+            {
+                "icon":  "/assets/owo/biaoqing/paopao/E5A4AAE998B3_2x.png ",
+                "data": "::(太阳)",
+                "css": "paopao",
+                "text": "太阳"
+            },
+            {
+                "icon":  "/assets/owo/biaoqing/paopao/E6989FE6989FE69C88E4BAAE_2x.png ",
+                "data": "::(星星月亮)",
+                "css": "paopao",
+                "text": "星星月亮"
+            },
+            {
+                "icon":  "/assets/owo/biaoqing/paopao/E992B1E5B881_2x.png ",
+                "data": "::(钱币)",
+                "css": "paopao",
+                "text": "钱币"
+            },
+            {
+                "icon":  "/assets/owo/biaoqing/paopao/E88CB6E69DAF_2x.png ",
+                "data": "::(茶杯)",
+                "css": "paopao",
+                "text": "茶杯"
+            },
+            {
+                "icon":  "/assets/owo/biaoqing/paopao/E89B8BE7B395_2x.png ",
+                "data": "::(蛋糕)",
+                "css": "paopao",
+                "text": "蛋糕"
+            },
+            {
+                "icon":  "/assets/owo/biaoqing/paopao/E5A4A7E68B87E68C87_2x.png ",
+                "data": "::(大拇指)",
+                "css": "paopao",
+                "text": "大拇指"
+            },
+            {
+                "icon":  "/assets/owo/biaoqing/paopao/E8839CE588A9_2x.png ",
+                "data": "::(胜利)",
+                "css": "paopao",
+                "text": "胜利"
+            },
+            {
+                "icon":  "/assets/owo/biaoqing/paopao/haha_2x.png ",
+                "data": "::(haha)",
+                "css": "paopao",
+                "text": "haha"
+            },
+            {
+                "icon":  "/assets/owo/biaoqing/paopao/OK_2x.png ",
+                "data": "::(OK)",
+                "css": "paopao",
+                "text": "OK"
+            },
+            {
+                "icon":  "/assets/owo/biaoqing/paopao/E6B299E58F91_2x.png ",
+                "data": "::(沙发)",
+                "css": "paopao",
+                "text": "沙发"
+            },
+            {
+                "icon":  "/assets/owo/biaoqing/paopao/E6898BE7BAB8_2x.png ",
+                "data": "::(手纸)",
+                "css": "paopao",
+                "text": "手纸"
+            },
+            {
+                "icon":  "/assets/owo/biaoqing/paopao/E9A699E89589_2x.png ",
+                "data": "::(香蕉)",
+                "css": "paopao",
+                "text": "香蕉"
+            },
+            {
+                "icon":  "/assets/owo/biaoqing/paopao/E4BEBFE4BEBF_2x.png ",
+                "data": "::(便便)",
+                "css": "paopao",
+                "text": "便便"
+            },
+            {
+                "icon":  "/assets/owo/biaoqing/paopao/E88DAFE4B8B8_2x.png ",
+                "data": "::(药丸)",
+                "css": "paopao",
+                "text": "药丸"
+            },
+            {
+                "icon":  "/assets/owo/biaoqing/paopao/E7BAA2E9A286E5B7BE_2x.png ",
+                "data": "::(红领巾)",
+                "css": "paopao",
+                "text": "红领巾"
+            },
+            {
+                "icon":  "/assets/owo/biaoqing/paopao/E89CA1E7839B_2x.png ",
+                "data": "::(蜡烛)",
+                "css": "paopao",
+                "text": "蜡烛"
+            },
+            {
+                "icon":  "/assets/owo/biaoqing/paopao/E99FB3E4B990_2x.png ",
+                "data": "::(音乐)",
+                "css": "paopao",
+                "text": "音乐"
+            },
+            {
+                "icon":  "/assets/owo/biaoqing/paopao/E781AFE6B3A1_2x.png ",
+                "data": "::(灯泡)",
+                "css": "paopao",
+                "text": "灯泡"
+            }
+        ]
+    },
+    "Emoji": {
+        "type": "emoji",
+        "container": [
+            {
+                "icon": "😂",
+                "text": ""
+            },
+            {
+                "icon": "😀",
+                "text": ""
+            },
+            {
+                "icon": "😅",
+                "text": ""
+            },
+            {
+                "icon": "😊",
+                "text": ""
+            },
+            {
+                "icon": "🙂",
+                "text": ""
+            },
+            {
+                "icon": "🙃",
+                "text": ""
+            },
+            {
+                "icon": "😌",
+                "text": ""
+            },
+            {
+                "icon": "😍",
+                "text": ""
+            },
+            {
+                "icon": "😘 ",
+                "text": ""
+            },
+            {
+                "icon": "😜",
+                "text": ""
+            },
+            {
+                "icon": "😝",
+                "text": ""
+            },
+            {
+                "icon": "😏",
+                "text": ""
+            },
+            {
+                "icon": "😒",
+                "text": ""
+            },
+            {
+                "icon": "🙄",
+                "text": ""
+            },
+            {
+                "icon": "😳 ",
+                "text": ""
+            },
+            {
+                "icon": "😡",
+                "text": ""
+            },
+            {
+                "icon": "😔",
+                "text": ""
+            },
+            {
+                "icon": "😫",
+                "text": ""
+            },
+            {
+                "icon": "😱",
+                "text": ""
+            },
+            {
+                "icon": "😭",
+                "text": ""
+            },
+            {
+                "icon": "💩",
+                "text": ""
+            },
+            {
+                "icon": "👻",
+                "text": ""
+            },
+            {
+                "icon": "🙌",
+                "text": ""
+            },
+            {
+                "icon": "🖕",
+                "text": ""
+            },
+            {
+                "icon": "👍",
+                "text": ""
+            },
+            {
+                "icon": "👫",
+                "text": ""
+            },
+            {
+                "icon": "👬",
+                "text": ""
+            },
+            {
+                "icon": "👭",
+                "text": ""
+            },
+            {
+                "icon": "🌚",
+                "text": ""
+            },
+            {
+                "icon": "🌝",
+                "text": ""
+            },
+            {
+                "icon": "🙈",
+                "text": ""
+            },
+            {
+                "icon": "💊",
+                "text": ""
+            },
+            {
+                "icon": "😶",
+                "text": ""
+            },
+            {
+                "icon": "🙏",
+                "text": ""
+            },
+            {
+                "icon": "🍦",
+                "text": ""
+            },
+            {
+                "icon": "🍉",
+                "text": ""
+            },
+            {
+                "icon": "😣",
+                "text": ""
+            }
+        ]
+    },
+    "颜文字": {
+        "type": "emoticon",
+        "container": [
+            {
+                "icon": "OωO",
+                "text": "Author: DIYgod"
+            },
+            {
+                "icon": "|´・ω・)ノ",
+                "text": "Hi"
+            },
+            {
+                "icon": "ヾ(≧∇≦*)ゝ",
+                "text": "开心"
+            },
+            {
+                "icon": "(☆ω☆)",
+                "text": "星星眼"
+            },
+            {
+                "icon": "（╯‵□′）╯︵┴─┴",
+                "text": "掀桌"
+            },
+            {
+                "icon": "￣﹃￣",
+                "text": "流口水"
+            },
+            {
+                "icon": "(/ω＼)",
+                "text": "捂脸"
+            },
+            {
+                "icon": "∠( ᐛ 」∠)＿",
+                "text": "给跪"
+            },
+            {
+                "icon": "(๑•̀ㅁ•́ฅ)",
+                "text": "Hi"
+            },
+            {
+                "icon": "→_→",
+                "text": "斜眼"
+            },
+            {
+                "icon": "୧(๑•̀⌄•́๑)૭",
+                "text": "加油"
+            },
+            {
+                "icon": "٩(ˊᗜˋ*)و",
+                "text": "有木有WiFi"
+            },
+            {
+                "icon": "(ノ°ο°)ノ",
+                "text": "前方高能预警"
+            },
+            {
+                "icon": "(´இ皿இ｀)",
+                "text": "我从未见过如此厚颜无耻之人"
+            },
+            {
+                "icon": "⌇●﹏●⌇",
+                "text": "吓死宝宝惹"
+            },
+            {
+                "icon": "(ฅ´ω`ฅ)",
+                "text": "已阅留爪"
+            },
+            {
+                "icon": "(╯°A°)╯︵○○○",
+                "text": "去吧大师球"
+            },
+            {
+                "icon": "φ(￣∇￣o)",
+                "text": "太萌惹"
+            },
+            {
+                "icon": "ヾ(´･ ･｀｡)ノ\"",
+                "text": "咦咦咦"
+            },
+            {
+                "icon": "( ง ᵒ̌皿ᵒ̌)ง⁼³₌₃",
+                "text": "气呼呼"
+            },
+            {
+                "icon": "(ó﹏ò｡)",
+                "text": "我受到了惊吓"
+            },
+            {
+                "icon": "Σ(っ °Д °;)っ",
+                "text": "什么鬼"
+            },
+            {
+                "icon": "( ,,´･ω･)ﾉ\"(´っω･｀｡)",
+                "text": "摸摸头"
+            },
+            {
+                "icon": "╮(╯▽╰)╭ ",
+                "text": "无奈"
+            },
+            {
+                "icon": "o(*////▽////*)q ",
+                "text": "脸红"
+            },
+            {
+                "icon": "＞﹏＜",
+                "text": ""
+            },
+            {
+                "icon": "( ๑´•ω•) \"(ㆆᴗㆆ)",
+                "text": ""
+            },
+            {
+                "icon": "(｡•ˇ‸ˇ•｡)",
+                "text": ""
+            }
+        ]
+    }
+}
